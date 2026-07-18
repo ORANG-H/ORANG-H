@@ -35,6 +35,6 @@ If you are looking for a developer to bring a web project to life, or just want 
 * **LinkedIn:** : [Click Here](https://www.linkedin.com/in/zaid-osama-805718329/)
 
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ORANG-H&style=flat-square&color=blue" alt="Profile Views" />
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ORANG-H&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
