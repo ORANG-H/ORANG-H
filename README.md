@@ -23,7 +23,7 @@ Instead of just looking at code, test out my live applications:
 ### 💻 Tech Stack & Tools
 
 * **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS
-* **Backend / Core:** Java, Node.js
+* **Backend / Core:** Java, Node.js , also learning Next.js
 * **Tools:** Git, GitHub, Vite, Vercel, Postman
 
 ---
