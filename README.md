@@ -35,6 +35,4 @@ If you are looking for a developer to bring a web project to life, or just want 
 * **LinkedIn:** : [Click Here](https://www.linkedin.com/in/zaid-osama-805718329/)
 
 <br/>
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ORANG-H&style=flat-square&color=blue" alt="Profile Views" />
-</h3>
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ORANG-H&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a)
