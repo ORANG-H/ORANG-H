@@ -6,15 +6,15 @@ I am a Computer Engineering student studying on a full academic scholarship at I
 
 Instead of just looking at code, test out my live applications:
 
-* 💱 **Dynamic Currency Converter** - [Live Demo]([YOUR_VERCEL_LINK]) | [Source Code]([YOUR_REPO_LINK])
+* 💱 **Dynamic Currency Converter** - [Live Demo]( https://vanilla-js-exchange-rate.vercel.app/ ) | [Source Code](https://github.com/ORANG-H/Vanilla-JS-Exchange-Rate)
   * *Tech:* Vanilla JS, CSS, Vite, REST APIs
   * *Details:* An asynchronous financial tool that handles real-time enterprise-level currency conversions routed through a base USD layer.
 
-* 🌤️ **Weather Search Dashboard** - [Live Demo]([YOUR_VERCEL_LINK]) | [Source Code]([YOUR_REPO_LINK])
+* 🌤️ **Weather Search Dashboard** - [Live Demo](https://vanilla-weather-dashboard.vercel.app/) | [Source Code](https://github.com/ORANG-H/Vanilla-Weather-Dashboard)
   * *Tech:* JavaScript, Tailwind CSS, Vite
   * *Details:* A sleek, responsive dashboard utilizing a two-step API layout (Geocoding + OpenWeather data retrieval) for pinpoint accuracy.
 
-* 🎮 **RAWG Game Directory** - [Live Demo]([YOUR_VERCEL_LINK]) | [Source Code]([YOUR_REPO_LINK])
+* 🎮 **RAWG Game Directory** - [Live Demo](https://dynamic-game-directory.vercel.app/) | [Source Code](https://github.com/ORANG-H/Dynamic-Game-Directory)
   * *Tech:* JavaScript, Tailwind CSS, Vite
   * *Details:* A high-performance dynamic search engine utilizing asynchronous search handling and DOM manipulation built from scratch.
 
